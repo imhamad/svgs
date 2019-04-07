@@ -1,0 +1,38 @@
+        .goat-svg .pupil, .goat-svg .glasses {
+    fill: #0D0D0C;
+}
+        .goat-svg .hat-light, .goat-svg .iris {
+    fill: #4A87B9;
+}
+        .goat-svg .hat-light, .goat-svg .iris {
+    fill: #4A87B9;
+}
+    .goat-svg .pupil, .goat-svg .glasses {
+    fill: #0D0D0C;
+}
+        .goat-svg .hat-med {
+    fill: #326998;
+}
+        .goat-svg .pupil, .goat-svg .glasses {
+    fill: #0D0D0C;
+}
+        element.style {
+    transform-origin: 0px 0px 0px;
+}
+        .goat-svg .eyelid {
+    -webkit-transform: scaleY(0.1);
+    transform: scaleY(0.1);
+    -webkit-transform-origin: top center;
+    transform-origin: top center;
+    transform-box: fill-box;
+    -webkit-animation: eye-blink 10s linear infinite;
+    animation: eye-blink 10s linear infinite;
+}
+        .goat-svg .skin, .goat-svg .eyelid {
+    fill: #8B4513;
+}
+        circle[Attributes Style] {
+    cx: 139;
+    cy: 303;
+    r: 10;
+}
